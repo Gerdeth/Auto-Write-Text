@@ -6,3 +6,6 @@ Auto-Write-Text shows a single line of text moving across a web page over a set 
 
 ## Screen Video
 ![Screen video of Auto-Write-Text](https://github.com/Gerdeth/Auto-Write-Text/blob/master/Auto%20Text%20video.gif)
+
+## License
+MIT
